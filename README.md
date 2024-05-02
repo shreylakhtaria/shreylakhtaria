@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Creating bugs since 2021<br>📚 I'm currently learning C++ , JAVA , Rust <br>🎯 Goals: Backend development 
+✨ Creating bugs since 2021
 
 
 ## 🌐 Socials:
