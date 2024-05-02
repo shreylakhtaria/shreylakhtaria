@@ -18,5 +18,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=shreylakhtaria&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
+![](https://hit.yhype.me/github/profile?user_id=134304894)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
